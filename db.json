@@ -1,0 +1,175 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "fullName": "Aydan Mirzəyeva",
+        "username": "aydan_mirzəyeva",
+        "email": "aydan.mirzeyeva@example.com",
+        "password": "parol123",
+        "bio": "Salam, mən Aydan! Hər bir günü güclü və pozitiv enerji ilə qarşılayıram",
+        "profilePicture": "https://i.pinimg.com/474x/83/2a/46/832a460b522c84fa9650c11face5927e.jpg",
+        "followers": [],
+        "followings": [],
+        "requests": [],
+        "posts": [
+          {
+            "title": "my office",
+            "imageURL": "https://myofficepod.co.uk/wp-content/uploads/2021/07/my-office-box.jpg",
+            "likes": [
+              1
+            ],
+            "id": 1,
+            "comments": [],
+            "createdAt": "2023-12-10T19:35:34.742Z"
+          },
+          {
+            "title": "My closest friends🥰",
+            "imageURL": "https://www.verywellfamily.com/thmb/FhVJlfRd2Ozsn6IKrg4iRjwqjbI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/iStock_000081387797_Medium-5681ef113df78ccc15b7d09b.jpg",
+            "likes": [
+              1
+            ],
+            "id": 2,
+            "comments": [],
+            "createdAt": "2023-12-10T19:33:16.079Z"
+          }
+        ],
+        "stories": [],
+        "isVerified": false,
+        "isPublic": false,
+        "isAdmin": true
+      },
+      {
+        "id": 2,
+        "username": "nigar_jafarova",
+        "fullName": "Nigar Cəfərova",
+        "email": "nigar.jafarova@example.com",
+        "password": "parol789",
+        "bio": "Salam, mən Nigar! Musiqi və rəssamlıq ilə məşğul olmağı çox sevirəm.",
+        "profilePicture": "https://cdn.goodgallery.com/cf0ef39c-1c83-45f8-b905-c091160e555c/s/0800/2fpgxh16/female-professional-portrait-gray-backdrop.jpg",
+        "followers": [],
+        "followings": [],
+        "requests": [],
+        "posts": [],
+        "stories": [],
+        "isVerified": true,
+        "isPublic": false,
+        "isAdmin": false
+      },
+      {
+        "password": "",
+        "id": 3,
+        "isVerified": true
+      },
+      {
+        "id": 4,
+        "username": "günay_məmmədova",
+        "fullName": "Günay Məmmədova",
+        "email": "gunay.mammadova@example.com",
+        "password": "parol321",
+        "bio": "Salam, mən Günay! Təbii gözəllik və kosmetika ilə maraqlanıram.",
+        "profilePicture": "https://monteluke.com.au/wp-content/gallery/linkedin-profile-pictures/cache/3.JPG-nggid03125-ngg0dyn-591x591-00f0w010c010r110f110r010t010.JPG",
+        "followers": [],
+        "followings": [],
+        "requests": [],
+        "posts": [
+          {
+            "title": "a day full of fun.",
+            "imageURL": "https://www.gpb.org/sites/default/files/styles/flexheight/public/blogs/images/2017/04/20/field_day.jpg?itok=CZpmwVw-",
+            "likes": [],
+            "id": 2,
+            "comments": [],
+            "createdAt": "2023-12-10T19:34:33.857Z"
+          }
+        ],
+        "stories": [],
+        "isVerified": true,
+        "isPublic": true,
+        "isAdmin": false
+      },
+      {
+        "id": 5,
+        "username": "fuad_quliyev",
+        "fullName": "Fuad Quliyev",
+        "email": "fuad.quliyev@example.com",
+        "password": "parol654",
+        "bio": "Salam, mən Fuad! Texnologiyalar və inovasiyalar üçün marağım var.",
+        "profilePicture": "https://monteluke.com.au/wp-content/gallery/linkedin-profile-pictures/cache/34217-MLS-Fabian-Ekker-003flin.jpg-nggid03417-ngg0dyn-591x591-00f0w010c010r110f110r010t010.jpg",
+        "followers": [],
+        "followings": [],
+        "requests": [],
+        "posts": [],
+        "stories": [],
+        "isVerified": false,
+        "isPublic": true,
+        "isAdmin": false
+      },
+      {
+        "id": 6,
+        "username": "sevda_babayeva",
+        "fullName": "Sevda Babayeva",
+        "email": "sevda.babayeva@example.com",
+        "password": "parol555",
+        "bio": "Salam, mən Sevda! Kitab oxumaq və yazmağa marağımdan əlaqədaram.",
+        "profilePicture": "https://www.befunky.com/images/wp/wp-2021-01-linkedin-profile-picture-focus-face.jpg?auto=avif,webp&format=jpg&width=944",
+        "followers": [],
+        "followings": [],
+        "requests": [],
+        "posts": [],
+        "stories": [],
+        "isVerified": true,
+        "isPublic": true,
+        "isAdmin": true
+      },
+      {
+        "id": 7,
+        "username": "orxan_soltanov",
+        "fullName": "Orxan Soltanov",
+        "email": "orxan.soltanov@example.com",
+        "password": "parol111",
+        "bio": "Salam, mən Orxan! Həyatı dolu dolu yaşamağa çalışıram və seyahət etməyi sevirəm.",
+        "profilePicture": "https://kelicommheadshots.com/wp-content/uploads/2016/03/Tom-KeliComm-Crop-for-Web.jpg",
+        "followers": [],
+        "followings": [],
+        "requests": [],
+        "posts": [],
+        "stories": [],
+        "isVerified": true,
+        "isPublic": true,
+        "isAdmin": true
+      },
+      {
+        "id": 8,
+        "username": "nigar_novruzova",
+        "fullName": "Nigar Novruzova",
+        "email": "nigar.novruzova@example.com",
+        "password": "parol999",
+        "bio": "Salam, mən Nigar! Təhsil və elm mənim üçün çox əhəmiyyətlidir.",
+        "profilePicture": "url_nigar_https://images.squarespace-cdn.com/content/v1/5aee389b3c3a531e6245ae76/1531792846005-MYGZAOI0L93I3YJWHB6W/D75_5697-Edit.jpgprofil_sekili",
+        "followers": [],
+        "followings": [],
+        "requests": [],
+        "posts": [],
+        "stories": [],
+        "isVerified": false,
+        "isPublic": false,
+        "isAdmin": false
+      },
+      {
+        "id": 9,
+        "username": "rauf_məmmədov",
+        "fullName": "Rauf Məmmədov",
+        "email": "rauf.mammadov@example.com",
+        "password": "parol000",
+        "bio": "Salam, mən Rauf! Təcrübəli proqramçı və tədqiqatçıyam.",
+        "profilePicture": "https://media.licdn.com/dms/image/C5612AQEhrTU_u2hB0A/article-cover_image-shrink_720_1280/0/1602775863246?e=2147483647&v=beta&t=Q8Ls-NcLDjUnUbLWrQ3fIEk2A-QjLvMHPO3jkoLstY0",
+        "followers": [],
+        "followings": [],
+        "requests": [],
+        "posts": [],
+        "stories": [],
+        "isVerified": true,
+        "isPublic": true,
+        "isAdmin": true
+      }
+    ]
+  }
